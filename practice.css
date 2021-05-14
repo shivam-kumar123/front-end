@@ -1,0 +1,25 @@
+.jumbotron{
+    background: grey;
+}
+.d-flex li a{
+    color: #fff;
+}
+.d-flex li a:hover{
+    color:yellow;
+}
+.jumbotron{
+    background: rgb(201, 209, 235);
+    text-align: center;
+    border-radius:8px;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+.jumbotron h1{
+    font-weight: 500;
+}
+.container .row img{
+    width:90%;
+    height:90%;
+    margin-left:5%;
+    border: 5px solid rgb(187, 173, 173);
+}
